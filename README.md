@@ -3,4 +3,6 @@ Inu Yoshikawa is a Character for Upcoming game- *Realms* (UNDER DEVELOPMENT). In
 # Preview Images:
 <img src="/1.png" width=30% height=50%>
 <img align="right" src="/5.png" width=30% height=50%>
-<img align="center" src="/6.png" width=30% height=50%>
+<p align="center">
+<img src="/6.png" width=30% height=50%>
+</p>
