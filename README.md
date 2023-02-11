@@ -7,3 +7,6 @@ Inu Yoshikawa is a Character for Upcoming game- *Realms* (UNDER DEVELOPMENT). In
 <img src="/6.png" width=30% height=50%>
 </p>
 
+
+© Dragon Realms - [Ravanger101](https://github.com/Ravanger101)
+
